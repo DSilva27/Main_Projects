@@ -1,4 +1,4 @@
-# Main_Projects
+# My main software development projects
 This is a compilation software development projects related to cryo-EM where I have collaborated or acted as the main developer.
 
 * [cryoJAX](https://github.com/mjo22/cryojax) - A flexible and differentiable simulator for cryo-EM data from volumes or atomic structures. Generates data compatible with Relion / Cryosparc. Developed the simulator from atomic models, PDB/mmCIF reading interface, and the generation of datasets.
